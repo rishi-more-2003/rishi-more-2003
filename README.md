@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CruSher12-byte&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CruSher12-byte&theme=great-gatsby&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CruSher12-byte&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
