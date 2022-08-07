@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-* Being an AI enthusiast much of my current focus is on machine learning.
+* Being an AI enthusiast, much of my current focus is on machine learning.
 * I have expertise in supervised learning, deep learning, and artificial neural networks.
 * Through Tensorflow with Python, I have built multiple machine learning models using SkLearn and the Keras frameworks.
 * Additionally, I applied learning from CNN models such as VGG-16 and YOLOv5 for art generation and object detection.
