@@ -1,26 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**CruSher12-byte/CruSher12-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Rishi. I am an undergraduate student pursing my Bachelor of Technology in CSE.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 💫 About Me:
+## 💫 About Me:
 * Being an AI enthusiast, much of my current focus is on machine learning.
-* I have expertise in supervised learning, deep learning, and artificial neural networks.
+* I possess expertise in supervised learning, deep learning, and artificial neural networks.
 * Through Tensorflow with Python, I have built multiple machine learning models using SkLearn and the Keras frameworks.
-* Additionally, I applied learning from CNN models such as VGG-16 and YOLOv5 for art generation and object detection.
-* Recently developed a CNN model for image segmentation that achieved a 98% test accuracy rate after 25 epochs. 
+* Additionally, I have applied learning from CNN models such as VGG-16 and YOLOv5 for art generation and object detection.
+* Had recently developed a CNN model for image segmentation that achieved a 98% test accuracy rate after 25 epochs. 
 * Artificial Intelligence and neural networks are my main research interests.
 
 
@@ -30,7 +17,7 @@ Here are some ideas to get you started:
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/thatguy69420) 
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/fd09a65d0ce42d3cabf58a41e97ebe00)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
