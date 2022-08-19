@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-## My name is Rishi. I am an undergraduate student pursing my Bachelor of Technology in CSE.
+#### My name is Rishi. I am an undergraduate student pursing my Bachelor of Technology in CSE.
 
 ## 💫 About Me:
 * Being an AI enthusiast, much of my current focus is on machine learning.
