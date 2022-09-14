@@ -6,8 +6,8 @@
 * I possess expertise in supervised learning, deep learning, and artificial neural networks.
 * Through Tensorflow with Python, I have built multiple machine learning models using SkLearn and the Keras frameworks.
 * Additionally, I have applied learning from CNN models such as VGG-16 and YOLOv5 for art generation and object detection.
-* Had recently developed a CNN model for image segmentation that achieved a 98% test accuracy rate after 25 epochs. 
-* Artificial Intelligence and neural networks are my main research interests.
+* Furthermore, designed a CNN model for image segmentation which achieved a 98% test accuracy rate after 25 epochs. 
+* Artificial Intelligence and Neural Networks are my main research interests.
 
 
 ## 🌐 Socials:
