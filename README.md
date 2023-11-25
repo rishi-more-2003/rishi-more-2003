@@ -10,7 +10,7 @@
 * Artificial Intelligence and Neural Networks are my main research interests.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/im_rvm) 
+<!---[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/im_rvm)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishimore102) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/thatguy69420) 
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/fd09a65d0ce42d3cabf58a41e97ebe00)
@@ -30,8 +30,8 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 
-<!-- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CruSher12-byte&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CruSher12-byte&theme=great-gatsby&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CruSher12-byte&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+ # 📊 GitHub Stats:
+<!--![](https://github-readme-stats.vercel.app/api?username=rishi-more-2003&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false)<br/>-->
+![](https://github-readme-streak-stats.herokuapp.com/?user=rishi-more-2003&theme=great-gatsby&hide_border=true)<br/>
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishi-more-2003&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact)-->
 
