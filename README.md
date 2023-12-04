@@ -4,8 +4,8 @@
 ## 💫 About Me:
 * Results-driven machine learning engineer with 3+ years of experience developing and deploying deep learning models for computer vision, NLP, and predictive analytics.
 * Core strengths in TensorFlow, Python, OpenCV, Keras, and SkLearn.
-* Built an award-winning voice authentication system optimized for performance and efficiency, achieving 90% accuracy on Indian speakers.
-* Developed a nutrition analyzer and recipe recommendation app with a 96% accurate nutrition fact analyzer and a 20% improved recipe recommender.
+* Built an award-winning voice authentication system optimized for performance and efficiency, achieving >96% accuracy on Indian speakers.
+* Developed a nutrition analyzer and recipe recommendation app with a >95% accurate nutrition fact analyzer and recipe recommender.
 * Seeking to leverage my expertise in deep learning and data science to take on challenging roles in ML engineering.
 * Current research interests focus on optimizing knowledge distillation techniques in a retrieval-augmented generation to enhance the performance of large language models (LLMs) in one-shot and few-shot learning scenarios.
 
