@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### My name is Rishi. I am an undergraduate student pursuing my Bachelor of Technology in CSE.
+#### My name is Rishi. I am an undergraduate student pursuing my Bachelor of Technology in Computer Engineering.
 
 ## 💫 About Me:
 * Results-driven machine learning engineer with 3+ years of experience developing and deploying deep learning models for computer vision, NLP, and predictive analytics.
