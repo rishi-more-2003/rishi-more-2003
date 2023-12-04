@@ -1,13 +1,28 @@
 ## Hi there 👋
-#### My name is Rishi. I am an undergraduate student pursing my Bachelor of Technology in CSE.
+#### My name is Rishi. I am an undergraduate student pursuing my Bachelor of Technology in CSE.
 
 ## 💫 About Me:
-* Being an AI enthusiast, much of my current focus is on machine learning.
-* I possess expertise in supervised learning, deep learning, and artificial neural networks.
-* Through Tensorflow with Python, I have built multiple machine learning models using SkLearn and the Keras frameworks.
-* Additionally, I have applied learning from CNN models such as VGG-16 and YOLOv5 for art generation and object detection.
-* In addition, I have also designed a CNN model for image segmentation which achieved an accuracy rate of 98% after 25 iterations.
-* Artificial Intelligence and Neural Networks are my main research interests.
+* Results-driven machine learning engineer with 3+ years of experience developing and deploying deep learning models for computer vision, NLP, and predictive analytics.
+* Core strengths in TensorFlow, Python, OpenCV, Keras, and SkLearn.
+* Built an award-winning voice authentication system optimized for performance and efficiency, achieving 90% accuracy on Indian speakers.
+* Developed a nutrition analyzer and recipe recommendation app with a 96% accurate nutrition fact analyzer and a 20% improved recipe recommender.
+* Seeking to leverage my expertise in deep learning and data science to take on challenging roles in ML engineering.
+* Current research interests focus on optimizing knowledge distillation techniques in a retrieval-augmented generation to enhance the performance of large language models (LLMs) in one-shot and few-shot learning scenarios.
+
+## 🔍 Research Work:
+1. **Preserving Privacy in Video Analytics: A Comprehensive Review of Face De-Identification and Background Blurring Techniques**
+   - *Submitted in IEEE Transactions on Information Forensics and Security*
+   - *[Paper Link](https://www.techrxiv.org/articles/preprint/Preserving_Privacy_in_Video_Analytics_A_Comprehensive_Review_of_Face_De-Identification_and_Background_Blurring_Techniques/24587100)*
+   - *Citation: Maity, Amit; More, Rishi; Kambli, Gitesh; Ambadekar, Sarita (2023). Preserving Privacy in Video Analytics: A Comprehensive Review of Face De-Identification and Background Blurring Techniques. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.24587100.v1*
+
+2. **Toxic Comment Detection Using Bidirectional Sequence Classifiers**
+   - *Accepted in 2nd International Conference on Intelligent Data Communication Technologies and Internet of Things*
+   - *[Paper Link](https://www.techrxiv.org/articles/preprint/Toxic_Comment_Detection_Using_Bidirectional_Sequence_Classifiers/24634080)*
+   - *Citation: Maity, Amit; More, Rishi; Patil, Abhijit; Oza, Jay; Kambli, Gitesh (2023). Toxic Comment Detection Using Bidirectional Sequence Classifiers. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.24634080.v1*
+3. **A Streamlined Approach towards Monkeypox Detection**
+   - *Submitted in 2024 IEEE Bombay Section Signature Conference (IBSSC)*
+   - *[Paper Link](https://www.techrxiv.org/articles/preprint/A_Streamlined_Approach_towards_Monkeypox_Detection/24634083)*
+   - *Citation: Kulkarni, Sarvesh; Oza, Jay; Patil, Abhijit; More, Rishi; Kambli, Gitesh; Maity, Amit (2023). A Streamlined Approach towards Monkeypox Detection. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.24634083.v1*
 
 ## 🌐 Socials:
 <!---[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/im_rvm)-->
