@@ -13,16 +13,16 @@
 1. **Preserving Privacy in Video Analytics: A Comprehensive Review of Face De-Identification and Background Blurring Techniques**
    - *Submitted in IEEE Transactions on Information Forensics and Security*
    - *[Paper Link](https://www.techrxiv.org/articles/preprint/Preserving_Privacy_in_Video_Analytics_A_Comprehensive_Review_of_Face_De-Identification_and_Background_Blurring_Techniques/24587100)*
-   - *Citation: Maity, Amit; More, Rishi; Kambli, Gitesh; Ambadekar, Sarita (2023). Preserving Privacy in Video Analytics: A Comprehensive Review of Face De-Identification and Background Blurring Techniques. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.24587100.v1*
+   - *Preprint Citation: Maity, Amit; More, Rishi; Kambli, Gitesh; Ambadekar, Sarita (2023). Preserving Privacy in Video Analytics: A Comprehensive Review of Face De-Identification and Background Blurring Techniques. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.24587100.v1*
 
 2. **Toxic Comment Detection Using Bidirectional Sequence Classifiers**
    - *Accepted in 2nd International Conference on Intelligent Data Communication Technologies and Internet of Things*
    - *[Paper Link](https://www.techrxiv.org/articles/preprint/Toxic_Comment_Detection_Using_Bidirectional_Sequence_Classifiers/24634080)*
-   - *Citation: Maity, Amit; More, Rishi; Patil, Abhijit; Oza, Jay; Kambli, Gitesh (2023). Toxic Comment Detection Using Bidirectional Sequence Classifiers. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.24634080.v1*
+   - *Preprint Citation: Maity, Amit; More, Rishi; Patil, Abhijit; Oza, Jay; Kambli, Gitesh (2023). Toxic Comment Detection Using Bidirectional Sequence Classifiers. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.24634080.v1*
 3. **A Streamlined Approach towards Monkeypox Detection**
    - *Submitted in 2024 IEEE Bombay Section Signature Conference (IBSSC)*
    - *[Paper Link](https://www.techrxiv.org/articles/preprint/A_Streamlined_Approach_towards_Monkeypox_Detection/24634083)*
-   - *Citation: Kulkarni, Sarvesh; Oza, Jay; Patil, Abhijit; More, Rishi; Kambli, Gitesh; Maity, Amit (2023). A Streamlined Approach towards Monkeypox Detection. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.24634083.v1*
+   - *Preprint Citation: Kulkarni, Sarvesh; Oza, Jay; Patil, Abhijit; More, Rishi; Kambli, Gitesh; Maity, Amit (2023). A Streamlined Approach towards Monkeypox Detection. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.24634083.v1*
 
 ## 🌐 Socials:
 <!---[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/im_rvm)-->
