@@ -16,13 +16,23 @@
    - *Preprint Citation: Maity, Amit; More, Rishi; Kambli, Gitesh; Ambadekar, Sarita (2023). Preserving Privacy in Video Analytics: A Comprehensive Review of Face De-Identification and Background Blurring Techniques. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.24587100.v1*
 
 2. **Toxic Comment Detection Using Bidirectional Sequence Classifiers**
-   - *Accepted in 2nd International Conference on Intelligent Data Communication Technologies and Internet of Things*
+   - *Presented at 2nd International Conference on Intelligent Data Communication Technologies and Internet of Things and published in IEEE Xplore.*
    - *[Paper Link](https://www.techrxiv.org/articles/preprint/Toxic_Comment_Detection_Using_Bidirectional_Sequence_Classifiers/24634080)*
    - *Preprint Citation: Maity, Amit; More, Rishi; Patil, Abhijit; Oza, Jay; Kambli, Gitesh (2023). Toxic Comment Detection Using Bidirectional Sequence Classifiers. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.24634080.v1*
 3. **A Streamlined Approach towards Monkeypox Detection**
-   - *Submitted in 2024 IEEE Bombay Section Signature Conference (IBSSC)*
+   - *Submitted in 2024 9th International Conference on Convergence of Technology (I2CT) co-sponsored by IEEE*
    - *[Paper Link](https://www.techrxiv.org/articles/preprint/A_Streamlined_Approach_towards_Monkeypox_Detection/24634083)*
    - *Preprint Citation: Kulkarni, Sarvesh; Oza, Jay; Patil, Abhijit; More, Rishi; Kambli, Gitesh; Maity, Amit (2023). A Streamlined Approach towards Monkeypox Detection. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.24634083.v1*
+
+4. **A Lightweight Approach Towards Speaker Authentication Systems**
+   - *Work in Progress*
+   - *[Paper Link](https://www.techrxiv.org/users/707325/articles/694309-a-lightweight-approach-towards-speaker-authentication-systems)*
+   - *Preprint Citation: R. More, A. Patil, S. Deshmukh, K. Chawda, and D. Mistry, “A Lightweight Approach Towards Speaker Authentication Systems,” Dec. 2023. [Online]. Available: http://dx.doi.org/10.36227/techrxiv.170327084.43364748/v1*
+  
+5. **Harnessing Insights from Streams: Unlocking Real-Time Data Flow with Docker and Cassandra in the Apache Ecosystem**
+   - *Submitted in 2024 9th International Conference on Convergence of Technology (I2CT) co-sponsored by IEEE*
+   - *[Paper Link](https://www.techrxiv.org/users/707325/articles/697343-harnessing-insights-from-streams-unlocking-real-time-data-flow-with-docker-and-cassandra-in-the-apache-ecosystem)*
+   - *Preprint Citation: J. Oza, A. Patil, C. Maniyath, R. More, G. Kambli, and A. Maity, “Harnessing Insights From Streams: Unlocking Real-time Data Flow with Docker and Cassandra in the Apache Ecosystem,” Jan. 2024. [Online]. Available: http://dx.doi.org/10.36227/techrxiv.170475337.78884732/v1*
 
 ## 🌐 Socials:
 <!---[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/im_rvm)-->
