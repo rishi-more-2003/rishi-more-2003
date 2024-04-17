@@ -18,9 +18,7 @@
 2. **Toxic Comment Detection Using Bidirectional Sequence Classifiers**
    - *Presented at 2nd International Conference on Intelligent Data Communication Technologies and Internet of Things and published in IEEE Xplore.*
    - *[Paper Link](https://ieeexplore.ieee.org/document/10467922)*
-   - *Preprint Citation: A. Maity, R. More, P. A. Patil, J. Oza and G. Kambli, "Toxic Comment Detection Using Bidirectional Sequence Classifiers," 2024 2nd International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT), Bengaluru, India, 2024, pp. 709-716, doi: 10.1109/IDCIoT59759.2024.10467922*
-
-*
+   - *Paper Citation: A. Maity, R. More, P. A. Patil, J. Oza and G. Kambli, "Toxic Comment Detection Using Bidirectional Sequence Classifiers," 2024 2nd International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT), Bengaluru, India, 2024, pp. 709-716, doi: 10.1109/IDCIoT59759.2024.10467922*
    
 3. **A Streamlined Approach towards Monkeypox Detection**
    - *Submitted in 2024 9th International Conference on Convergence of Technology (I2CT) co-sponsored by IEEE*
