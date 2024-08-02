@@ -12,7 +12,7 @@
 ## 🔍 Research Work:
 1. **Privacy-Preserving Video Analytics Through GAN-Based Face De-Identification**
    - *Accepted for publication at 2nd International Conference on Network, Multimedia and Information Technology (NMITCON)*
-   - 
+
 3. **Preserving Privacy in Video Analytics: A Comprehensive Review of Face De-Identification and Background Blurring Techniques**
    - *Submitted in IEEE Transactions on Information Forensics and Security*
    - *[Paper Link](https://www.techrxiv.org/articles/preprint/Preserving_Privacy_in_Video_Analytics_A_Comprehensive_Review_of_Face_De-Identification_and_Background_Blurring_Techniques/24587100)*
