@@ -10,27 +10,30 @@
 * Current research interests focus on optimizing knowledge distillation techniques in a retrieval-augmented generation to enhance the performance of large language models (LLMs) in one-shot and few-shot learning scenarios.
 
 ## 🔍 Research Work:
-1. **Preserving Privacy in Video Analytics: A Comprehensive Review of Face De-Identification and Background Blurring Techniques**
+1. **Privacy-Preserving Video Analytics Through GAN-Based Face De-Identification**
+   - *Accepted for publication at 2nd International Conference on Network, Multimedia and Information Technology (NMITCON)*
+   - 
+3. **Preserving Privacy in Video Analytics: A Comprehensive Review of Face De-Identification and Background Blurring Techniques**
    - *Submitted in IEEE Transactions on Information Forensics and Security*
    - *[Paper Link](https://www.techrxiv.org/articles/preprint/Preserving_Privacy_in_Video_Analytics_A_Comprehensive_Review_of_Face_De-Identification_and_Background_Blurring_Techniques/24587100)*
    - *Preprint Citation: Maity, Amit; More, Rishi; Kambli, Gitesh; Ambadekar, Sarita (2023). Preserving Privacy in Video Analytics: A Comprehensive Review of Face De-Identification and Background Blurring Techniques. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.24587100.v1*
 
-2. **Toxic Comment Detection Using Bidirectional Sequence Classifiers**
+4. **Toxic Comment Detection Using Bidirectional Sequence Classifiers**
    - *Presented at 2nd International Conference on Intelligent Data Communication Technologies and Internet of Things and published in IEEE Xplore.*
    - *[Paper Link](https://doi.org/10.1109/IDCIoT59759.2024.10467922)*
    - *Paper Citation: A. Maity, R. More, P. A. Patil, J. Oza and G. Kambli, "Toxic Comment Detection Using Bidirectional Sequence Classifiers," 2024 2nd International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT), Bengaluru, India, 2024, pp. 709-716, doi: 10.1109/IDCIoT59759.2024.10467922*
    
-3. **A Streamlined Approach towards Monkeypox Detection**
+5. **A Streamlined Approach towards Monkeypox Detection**
    - *Submitted in 2024 9th International Conference on Convergence of Technology (I2CT) co-sponsored by IEEE*
    - *[Paper Link](https://www.techrxiv.org/articles/preprint/A_Streamlined_Approach_towards_Monkeypox_Detection/24634083)*
    - *Preprint Citation: Kulkarni, Sarvesh; Oza, Jay; Patil, Abhijit; More, Rishi; Kambli, Gitesh; Maity, Amit (2023). A Streamlined Approach towards Monkeypox Detection. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.24634083.v1*
 
-4. **A Lightweight Approach Towards Speaker Authentication Systems**
+6. **A Lightweight Approach Towards Speaker Authentication Systems**
    - *Work in Progress*
    - *[Paper Link](https://www.techrxiv.org/users/707325/articles/694309-a-lightweight-approach-towards-speaker-authentication-systems)*
    - *Preprint Citation: R. More, A. Patil, S. Deshmukh, K. Chawda, and D. Mistry, “A Lightweight Approach Towards Speaker Authentication Systems,” Dec. 2023. [Online]. Available: http://dx.doi.org/10.36227/techrxiv.170327084.43364748/v1*
   
-5. **Harnessing Insights from Streams: Unlocking Real-Time Data Flow with Docker and Cassandra in the Apache Ecosystem**
+7. **Harnessing Insights from Streams: Unlocking Real-Time Data Flow with Docker and Cassandra in the Apache Ecosystem**
    - *Submitted in 2024 9th International Conference on Convergence of Technology (I2CT) co-sponsored by IEEE*
    - *[Paper Link](https://www.techrxiv.org/users/707325/articles/697343-harnessing-insights-from-streams-unlocking-real-time-data-flow-with-docker-and-cassandra-in-the-apache-ecosystem)*
    - *Preprint Citation: J. Oza, A. Patil, C. Maniyath, R. More, G. Kambli, and A. Maity, “Harnessing Insights From Streams: Unlocking Real-time Data Flow with Docker and Cassandra in the Apache Ecosystem,” Jan. 2024. [Online]. Available: http://dx.doi.org/10.36227/techrxiv.170475337.78884732/v1*
