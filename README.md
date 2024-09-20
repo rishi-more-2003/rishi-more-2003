@@ -2,7 +2,7 @@
 #### My name is Rishi. I am an engineering graduate pursuing my Masters in Computer Science at Johns Hopkins University.
 
 ## 💫 About Me:
-* Results-driven machine learning engineer with 3+ years of experience developing and deploying deep learning models for computer vision, NLP, and predictive analytics.
+* Results-driven Machine Learning Engineer with 3+ years of experience in developing, optimizing, and deploying deep learning models across computer vision, NLP, and predictive analytics domains. Passionate about building innovative solutions that push the boundaries of AI.
 * Core strengths in TensorFlow, Python, OpenCV, Keras, and SkLearn.
 * Built an award-winning voice authentication system optimized for performance and efficiency, achieving >96% accuracy on Indian speakers.
 * Developed a nutrition analyzer and recipe recommendation app with a >95% accurate nutrition fact analyzer and recipe recommender.
