@@ -11,32 +11,40 @@
 
 ## 🔍 Research Work:
 1. **Privacy-Preserving Video Analytics Through GAN-Based Face De-Identification**
-   - *Accepted for publication at 2nd International Conference on Network, Multimedia and Information Technology (NMITCON)*
+   - *Published at 2nd International Conference on Network, Multimedia and Information Technology (NMITCON)*
+   - *[Paper Link](https://doi.org/10.1109/NMITCON62075.2024.10698920)*
+   - *Paper Citation: R. More, A. Maity, G. Kambli and S. Ambadekar, "Privacy-Preserving Video Analytics Through GAN-Based Face De-Identification," 2024 Second International Conference on Networks, Multimedia and Information Technology (NMITCON), Bengaluru, India, 2024, pp. 1-6, doi: 10.1109/NMITCON62075.2024.10698920*
 
-3. **Preserving Privacy in Video Analytics: A Comprehensive Review of Face De-Identification and Background Blurring Techniques**
-   - *Submitted in IEEE Transactions on Information Forensics and Security*
-   - *[Paper Link](https://www.techrxiv.org/articles/preprint/Preserving_Privacy_in_Video_Analytics_A_Comprehensive_Review_of_Face_De-Identification_and_Background_Blurring_Techniques/24587100)*
-   - *Preprint Citation: Maity, Amit; More, Rishi; Kambli, Gitesh; Ambadekar, Sarita (2023). Preserving Privacy in Video Analytics: A Comprehensive Review of Face De-Identification and Background Blurring Techniques. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.24587100.v1*
-
-4. **Toxic Comment Detection Using Bidirectional Sequence Classifiers**
+2. **Toxic Comment Detection Using Bidirectional Sequence Classifiers**
    - *Presented at 2nd International Conference on Intelligent Data Communication Technologies and Internet of Things and published in IEEE Xplore.*
    - *[Paper Link](https://doi.org/10.1109/IDCIoT59759.2024.10467922)*
    - *Paper Citation: A. Maity, R. More, P. A. Patil, J. Oza and G. Kambli, "Toxic Comment Detection Using Bidirectional Sequence Classifiers," 2024 2nd International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT), Bengaluru, India, 2024, pp. 709-716, doi: 10.1109/IDCIoT59759.2024.10467922*
+
+3. **Harnessing Insights from Streams: Unlocking Real-Time Data Flow with Docker and Cassandra in the Apache Ecosystem**
+   - *Published at 2024 IEEE Recent Advances in Intelligent Computational Systems (RAICS)*
+   - *[Paper Link](https://doi.org/10.1109/RAICS61201.2024.10690115)*
+   - *Paper Citation: J. Oza, A. Patil, C. Maniyath, R. More, G. Kambli and A. Maity, "Harnessing Insights from Streams: Unlocking Real-Time Data Flow with Docker and Cassandra in the Apache Ecosystem," 2024 IEEE Recent Advances in Intelligent Computational Systems (RAICS), Kothamangalam, Kerala, India, 2024, pp. 1-6, doi: 10.1109/RAICS61201.2024.10690115*
+  
+4. **PRISM: Predictive Resource Inference and Spot Instance Management**
+   - *Published at 2024 3rd International Conference for Advancement in Technology (ICONAT)*
+   - *[Paper Link](https://doi.org/10.1109/ICONAT61936.2024.10774810)*
+   - *Paper Citation: J. Oza, R. More, A. Maity, G. Kambli, C. Maniyath and A. Patil, "PRISM: Predictive Resource Inference and Spot Instance Management," 2024 3rd International Conference for Advancement in Technology (ICONAT), GOA, India, 2024, pp. 1-6, doi: 10.1109/ICONAT61936.2024.10774810*
    
 5. **A Streamlined Approach towards Monkeypox Detection**
    - *Submitted in 2024 9th International Conference on Convergence of Technology (I2CT) co-sponsored by IEEE*
    - *[Paper Link](https://www.techrxiv.org/articles/preprint/A_Streamlined_Approach_towards_Monkeypox_Detection/24634083)*
    - *Preprint Citation: Kulkarni, Sarvesh; Oza, Jay; Patil, Abhijit; More, Rishi; Kambli, Gitesh; Maity, Amit (2023). A Streamlined Approach towards Monkeypox Detection. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.24634083.v1*
 
-6. **A Lightweight Approach Towards Speaker Authentication Systems**
+6. **Preserving Privacy in Video Analytics: A Comprehensive Review of Face De-Identification and Background Blurring Techniques**
+   - *Submitted in IEEE Transactions on Information Forensics and Security*
+   - *[Paper Link](https://www.techrxiv.org/articles/preprint/Preserving_Privacy_in_Video_Analytics_A_Comprehensive_Review_of_Face_De-Identification_and_Background_Blurring_Techniques/24587100)*
+   - *Preprint Citation: Maity, Amit; More, Rishi; Kambli, Gitesh; Ambadekar, Sarita (2023). Preserving Privacy in Video Analytics: A Comprehensive Review of Face De-Identification and Background Blurring Techniques. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.24587100.v1*
+
+7. **A Lightweight Approach Towards Speaker Authentication Systems**
    - *Work in Progress*
    - *[Paper Link](https://www.techrxiv.org/users/707325/articles/694309-a-lightweight-approach-towards-speaker-authentication-systems)*
    - *Preprint Citation: R. More, A. Patil, S. Deshmukh, K. Chawda, and D. Mistry, “A Lightweight Approach Towards Speaker Authentication Systems,” Dec. 2023. [Online]. Available: http://dx.doi.org/10.36227/techrxiv.170327084.43364748/v1*
-  
-7. **Harnessing Insights from Streams: Unlocking Real-Time Data Flow with Docker and Cassandra in the Apache Ecosystem**
-   - *Submitted in 2024 9th International Conference on Convergence of Technology (I2CT) co-sponsored by IEEE*
-   - *[Paper Link](https://www.techrxiv.org/users/707325/articles/697343-harnessing-insights-from-streams-unlocking-real-time-data-flow-with-docker-and-cassandra-in-the-apache-ecosystem)*
-   - *Preprint Citation: J. Oza, A. Patil, C. Maniyath, R. More, G. Kambli, and A. Maity, “Harnessing Insights From Streams: Unlocking Real-time Data Flow with Docker and Cassandra in the Apache Ecosystem,” Jan. 2024. [Online]. Available: http://dx.doi.org/10.36227/techrxiv.170475337.78884732/v1*
+
 
 ## 🌐 Socials:
 <!---[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/im_rvm)-->
