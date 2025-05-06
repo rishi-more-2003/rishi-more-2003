@@ -16,7 +16,7 @@
    - *Paper Citation: R. More, A. Maity, G. Kambli and S. Ambadekar, "Privacy-Preserving Video Analytics Through GAN-Based Face De-Identification," 2024 Second International Conference on Networks, Multimedia and Information Technology (NMITCON), Bengaluru, India, 2024, pp. 1-6, doi: 10.1109/NMITCON62075.2024.10698920*
 
 2. **Toxic Comment Detection Using Bidirectional Sequence Classifiers**
-   - *Presented at 2nd International Conference on Intelligent Data Communication Technologies and Internet of Things and published in IEEE Xplore.*
+   - *Presented at 2nd International Conference on Intelligent Data Communication Technologies and Internet of Things*
    - *[Paper Link](https://doi.org/10.1109/IDCIoT59759.2024.10467922)*
    - *Paper Citation: A. Maity, R. More, P. A. Patil, J. Oza and G. Kambli, "Toxic Comment Detection Using Bidirectional Sequence Classifiers," 2024 2nd International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT), Bengaluru, India, 2024, pp. 709-716, doi: 10.1109/IDCIoT59759.2024.10467922*
 
@@ -31,12 +31,12 @@
    - *Paper Citation: J. Oza, R. More, A. Maity, G. Kambli, C. Maniyath and A. Patil, "PRISM: Predictive Resource Inference and Spot Instance Management," 2024 3rd International Conference for Advancement in Technology (ICONAT), GOA, India, 2024, pp. 1-6, doi: 10.1109/ICONAT61936.2024.10774810*
    
 5. **A Streamlined Approach towards Monkeypox Detection**
-   - *Submitted in 2024 9th International Conference on Convergence of Technology (I2CT) co-sponsored by IEEE*
+   - *Submitted to 2024 9th International Conference on Convergence of Technology (I2CT)*
    - *[Paper Link](https://www.techrxiv.org/articles/preprint/A_Streamlined_Approach_towards_Monkeypox_Detection/24634083)*
    - *Preprint Citation: Kulkarni, Sarvesh; Oza, Jay; Patil, Abhijit; More, Rishi; Kambli, Gitesh; Maity, Amit (2023). A Streamlined Approach towards Monkeypox Detection. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.24634083.v1*
 
 6. **Preserving Privacy in Video Analytics: A Comprehensive Review of Face De-Identification and Background Blurring Techniques**
-   - *Submitted in IEEE Transactions on Information Forensics and Security*
+   - *Submitted to IEEE Transactions on Information Forensics and Security*
    - *[Paper Link](https://www.techrxiv.org/articles/preprint/Preserving_Privacy_in_Video_Analytics_A_Comprehensive_Review_of_Face_De-Identification_and_Background_Blurring_Techniques/24587100)*
    - *Preprint Citation: Maity, Amit; More, Rishi; Kambli, Gitesh; Ambadekar, Sarita (2023). Preserving Privacy in Video Analytics: A Comprehensive Review of Face De-Identification and Background Blurring Techniques. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.24587100.v1*
 
