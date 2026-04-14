@@ -14,10 +14,6 @@ I’m currently pursuing an **M.S.E. in Computer Science at Johns Hopkins Univer
 - **Evaluation frameworks** for compute-quality tradeoffs
 - **Scalable MLOps systems** for training and inference
 
-## Links
-[LinkedIn](https://linkedin.com/in/rishimore102) • [GitHub](https://github.com/rishi-more-2003)
-
-
 ## 🔍 Research Work:
 1. **Privacy-Preserving Video Analytics Through GAN-Based Face De-Identification**
    - *Published at 2nd International Conference on Network, Multimedia and Information Technology (NMITCON)*
