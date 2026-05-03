@@ -2,7 +2,7 @@
 
 I'm a Computer Science master's student at **Johns Hopkins University**, graduating in **May 2026**.  
 My work focuses on **ML systems**, **efficient LLM inference**, **retrieval-augmented generation**, and **compute-aware reasoning**.  
-I'm a co-first author of an **ICML 2026** paper on risk-controlled test-time compute for reasoning LLMs.  
+Co-first author at **ICML 2026** on risk-controlled test-time compute for reasoning LLMs.  
 I'm especially interested in building scalable AI infrastructure for modern ML and LLM workloads.
 
 ## What I Work On
