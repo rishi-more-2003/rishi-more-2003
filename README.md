@@ -1,4 +1,4 @@
-# rishi more
+# rishi 
 
 cs @ johns hopkins.  
 interested in efficient llm inference, rag, preference optimization, and ml systems.
