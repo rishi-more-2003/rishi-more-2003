@@ -77,4 +77,4 @@ ml engineer intern — voice authentication and production inference.
 
 ## 🧊 elsewhere
 
-[website](https://rishi-more-2003.github.io/) · [google scholar](https://scholar.google.com/citations?user=xUxO6r0AAAAJ&hl=en) · [linkedin](https://www.linkedin.com/in/rishimore102/) · [github](https://github.com/rishi-more-2003)
+[website](https://rishi-more-2003.github.io/) · [google scholar](https://scholar.google.com/citations?user=xUxO6r0AAAAJ&hl=en) · [linkedin](https://www.linkedin.com/in/rishimore102/) · 
